@@ -1,0 +1,46 @@
+- Main function only one call
+- Struct Player, Board
+Example:
+
+How many games to play?
+3
+Game 1 starting
+Player X:
+1
+2
+Current state:
+_|_|_
+_|_|X
+_|_|_
+Player O:
+0
+2
+_|_|O
+_|_|X
+_|_|_
+Player X:
+1
+1
+_|_|O
+_|X|X
+_|_|_
+Player O:
+1
+1
+Field occupied! Try again!
+0
+0
+O|_|O
+_|X|X
+_|_|_
+Player X:
+1
+0
+O|_|O
+X|X|X
+_|_|_
+Player X wins! Player X has ... wins
+Game 2 starting...
+...
+...
+Result: X (2) 0 (1)
